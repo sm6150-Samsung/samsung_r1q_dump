@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <!-- to ensure System intelligence always runs (especially for Samsung Adaptive Battery) -->
+    <allow-in-power-save package="com.samsung.android.app.si" />
+    <allow-in-power-save-except-idle package="com.samsung.android.app.si" />
+</config>

@@ -1,0 +1,5 @@
+service sechcserver /system/bin/sechcserver SecHardCoder
+   class main
+   user system
+   group system
+   capabilities SYS_NICE NET_RAW

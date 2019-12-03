@@ -1,0 +1,2 @@
+libsiml.sysint.samsung.so
+libmpsdcore.sysint.samsung.so

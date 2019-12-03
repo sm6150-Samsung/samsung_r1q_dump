@@ -1,0 +1,8 @@
+{
+	"version_id": "v4",
+	"tag" : "4.19",
+	"model_type" : "npu",
+    "precision" : "qasymm8"
+
+}
+

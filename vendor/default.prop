@@ -1,0 +1,14 @@
+#
+# ADDITIONAL VENDOR DEFAULT PROPERTIES
+#
+ro.vndk.version=28
+ro.adb.secure=1
+ro.oem_unlock_supported=1
+ro.em.version=20
+ro.zygote=zygote64_32
+ro.radio.noril=no
+ro.vendor.epdg.support=true
+ro.logd.size.stats=64K
+log.tag.stats_log=I
+persist.sys.usb.config=mtp
+ro.storage.support.sdcard=0
